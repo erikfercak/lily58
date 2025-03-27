@@ -45,6 +45,7 @@
         cmb_inner_thumbs {
             bindings = <&mo 3>;
             key-positions = <53 54>;
+            require-prior-idle-ms = <200>;
         };
     };
 
